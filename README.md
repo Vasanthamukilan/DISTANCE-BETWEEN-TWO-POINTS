@@ -14,6 +14,7 @@ Distance = m.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
 ### Step 5:
 Print the distance in two decimal.
 ### PROGRAM:
+``` Python
 #Program to find the distance between two points.
 #Developed by:Vasanthamukilan
 #RegisterNumber:22001986
@@ -24,5 +25,6 @@ d=m.sqrt((l2[0]-l1[0])**2+(l2[1]-l1[1])**2)
 print("{:.2f}".format(d))
 ### OUTPUT:
 !['output'](/Screenshot_20221225_072053.png)
+```
 ### RESULT:
 Thus the distance between two point is executed successfully.
